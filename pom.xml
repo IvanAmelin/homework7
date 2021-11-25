@@ -46,7 +46,7 @@
                         </goals>
                     </execution>
                     <execution>
-                        <id>agent-777777666666</id>
+                        <id>report-777777666666</id>
                         <phase>verify</phase>
                         <goals>
                             <goal>report</goal>
