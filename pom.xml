@@ -39,14 +39,14 @@
                 <version>0.8.5</version>
                 <executions>
                     <execution>
-                        <id>agent-777777</id>
+                        <id>agent-777777666666</id>
                         <phase>initialize</phase>
                         <goals>
                             <goal>prepare-agent</goal>
                         </goals>
                     </execution>
                     <execution>
-                        <id>agent-777777</id>
+                        <id>agent-777777666666</id>
                         <phase>verify</phase>
                         <goals>
                             <goal>report</goal>
